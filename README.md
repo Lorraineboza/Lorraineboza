@@ -15,7 +15,7 @@
   <img src="https://github.com/DanilchenkoPaul/DanilchenkoPaul/blob/main/assets/divider.gif?raw=true" width="800" height="3" alt="divider">
 </div>
 
-## 🛠️ Core Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
   
@@ -35,11 +35,14 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📚 Currently Learning
-- Advanced C++20 features
-- Linux kernel development
-- Performance optimization techniques
-- Embedded systems architecture
+
+<p align="center">
+<a href="https://github.com/Lorraineboza">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Lorraineboza&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Lorraineboza&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
