@@ -1,6 +1,21 @@
 
 # Danilchenko Paul | С/С++ Developer 
 
+# Danilchenko Paul | С/C++ Systems Developer 
+
+
+#include <developer_profile.h>
+
+const struct Developer {
+    const char* name = "Danilchenko Paul";
+    const char* focus = "Low-level Systems Programming";
+    const char* principles[3] = {
+        "Code should be as efficient as hardware allows",
+        "Every allocation must be accounted for",
+        "Undefined behavior is the enemy"
+    };
+} dev_profile;
+
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Paul_von_Daniels)
 [![Email](https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:www.facemash@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/problemset/)
