@@ -1,4 +1,3 @@
-[![Matrix Banner](https://raw.githubusercontent.com/DanilchenkoPaul/DanilchenkoPaul/main/assets/matrix-banner.svg)](https://github.com/DanilchenkoPaul)
 
 # Danilchenko Paul | С/С++ Developer 
 
