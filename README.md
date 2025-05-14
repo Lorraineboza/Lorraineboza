@@ -43,13 +43,8 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🎯 Career Focus
+![Paul's github status](https://github-readme-stats.vercel.app/api?username=Lorraineboza&show_icons=true&count_private=true&bg_color=00000000&text_color=777) 
 
-Seeking opportunities to:
-- Develop high-performance systems
-- Optimize critical code paths
-- Contribute to meaningful open-source projects
-- Work with cutting-edge hardware technologies
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
