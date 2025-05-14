@@ -1,7 +1,3 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2000&pause=500&color=5C9DF1&center=true&vCenter=true&width=500&lines=Danilchenko+Paul;Professional+C%2FC%2B%2B+Developer;System+Programming" alt="Typing Text" />
 </h1>
