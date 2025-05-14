@@ -2,9 +2,10 @@
 
 
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2000&pause=500&color=5C9DF1&center=true&vCenter=true&width=500&lines=Danilchenko+Paul;Professional+C%2FC%2B%2B+Developer;System+Programming" alt="Typing Text" />
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?size=35&center=true&vCenter=true&color=03989EFF&width=900&lines=Hi,I'm+Paul+Danilchenko;C%2FC%2B%2B+Engineer+%7C+System+Software+Developer;Passionate+about+low-level+code%2C+performance" width="100%" height="50px">
+</p>
+
 
 <div align="center">
 
