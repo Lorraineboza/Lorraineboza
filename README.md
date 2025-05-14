@@ -41,7 +41,7 @@
 - Performance optimization techniques
 - Embedded systems architecture
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🎯 Career Focus
 
@@ -51,7 +51,7 @@ Seeking opportunities to:
 - Contribute to meaningful open-source projects
 - Work with cutting-edge hardware technologies
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=alberteinsteintg&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
