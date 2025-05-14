@@ -15,25 +15,14 @@
   <img src="https://github.com/DanilchenkoPaul/DanilchenkoPaul/blob/main/assets/divider.gif?raw=true" width="800" height="3" alt="divider">
 </div>
 
-## 🛠️ Tech Stack
 
-<div align="center">
-  
-| **Languages** | **Tools & Frameworks** | **Environments** |
-|---------------|------------------------|------------------|
-| ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white) | ![CMake](https://img.shields.io/badge/-CMake-064F8C?style=flat-square&logo=cmake&logoColor=white) | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
-| ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) | ![GDB](https://img.shields.io/badge/-GDB-4B8BBE?style=flat-square&logo=gnu&logoColor=white) |
+### ⚙️ &nbsp;GitHub Analytics
 
-</div>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Lorraineboza&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ABSphreak's Github Stats">
 
 
-### Areas of Interest
-- Low-latency systems
-- Memory management & optimization
-- Multithreading & concurrency
-- Embedded systems development
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 
 <p align="center">
@@ -41,15 +30,8 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Lorraineboza&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 </p>
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Lorraineboza&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ABSphreak's Github Stats">
  
 
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=alberteinsteintg&theme=radical&no-frame=false&no-bg=true&margin-w=4)
