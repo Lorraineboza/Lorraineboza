@@ -49,5 +49,5 @@ Seeking opportunities to:
 
 ---
 
-> "First, solve the problem. Then, write the code."  
-> — John Johnson
+> "If you want to know what God thinks about money, look at who he gave it to."  
+
