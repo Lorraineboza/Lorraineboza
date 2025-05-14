@@ -22,18 +22,7 @@
 
 
 
-
-
-
-<p align="center">
-<a href="https://github.com/Lorraineboza">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Lorraineboza&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-</a>
-</p>
- 
-
-
-## 🏆 GitHub Trophies
+## 🏆 &nbsp;GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=alberteinsteintg&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 > "If you want to know what God thinks about money, look at who he gave it to."
