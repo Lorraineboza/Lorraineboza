@@ -50,5 +50,8 @@ Seeking opportunities to:
 
 ---
 
-> "If you want to know what God thinks about money, look at who he gave it to."  
+> "If you want to know what God thinks about money, look at who he gave it to."
+
+
+![Snake animation](https://github.com/s-shemmee/s-shemmee/blob/output/github-contribution-grid-snake-dark.svg)
 
