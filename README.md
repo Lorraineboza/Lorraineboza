@@ -7,18 +7,12 @@
 </p>
 
 
-<div align="center">
 
-[![Telegram](https://img.shields.io/badge/-@Paul_von_Daniels-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0)](https://t.me/Paul_von_Daniels)
-[![Email](https://img.shields.io/badge/-www.facemash@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:www.facemash@gmail.com)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116)](https://leetcode.com/u/paulvondaniels/)
-[![Stack Overflow](https://img.shields.io/badge/-Stack_Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white&labelColor=FE7A16)](https://ru.stackoverflow.com/users/713493/lorraineboza-wilelkwile)
 
-</div>
 
-<div align="center">
-  <img src="https://github.com/DanilchenkoPaul/DanilchenkoPaul/blob/main/assets/divider.gif?raw=true" width="800" height="3" alt="divider">
-</div>
+
+
+
 
 
 ### ⚙️ &nbsp;GitHub Analytics
@@ -42,6 +36,22 @@
 
 ![Snake animation](https://github.com/s-shemmee/s-shemmee/blob/output/github-contribution-grid-snake-dark.svg)
 
+
+
+
+
+<div align="center">
+
+[![Telegram](https://img.shields.io/badge/-@Paul_von_Daniels-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0)](https://t.me/Paul_von_Daniels)
+[![Email](https://img.shields.io/badge/-www.facemash@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:www.facemash@gmail.com)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116)](https://leetcode.com/u/paulvondaniels/)
+[![Stack Overflow](https://img.shields.io/badge/-Stack_Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white&labelColor=FE7A16)](https://ru.stackoverflow.com/users/713493/lorraineboza-wilelkwile)
+
+</div>
+
+<div align="center">
+  <img src="https://github.com/DanilchenkoPaul/DanilchenkoPaul/blob/main/assets/divider.gif?raw=true" width="800" height="3" alt="divider">
+</div>
 
 
 
