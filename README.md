@@ -25,7 +25,24 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Lorraineboza&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ABSphreak's Github Stats">
+<br>
+<p align="center">
+ <a href="#" alt="Most used languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lorraineboza&theme=dracula&layout=compact" />
+ </a>
+ <br><br>
+</p>
+
+<p align="center">
+ <a href="#" alt="github stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lorraineboza&theme=dracula&show_icons=true&layout=compact" />
+ </a>
+</p>
+
+
+
+
+
 
 ### 🛠 &nbsp;Tech Stack
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;  \
