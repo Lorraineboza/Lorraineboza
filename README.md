@@ -22,9 +22,8 @@
 
 
 
-
-### ⚙️ &nbsp;GitHub Analytics
 <h2> <img width="25" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-stats.png" /><i> GitHub Analytics:</i></h2>
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lorraineboza&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&count_private=true&theme=gotham)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lorraineboza&layout=compact&theme=gotham&custom_title=Statistics)  
@@ -36,14 +35,17 @@
 
 
 
-### 🛠 &nbsp;Tech Stack
+<h2> <img width="25" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-stats.png" /><i>🛠 Tech Stack:</i></h2>
+
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;  \
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;  \
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;  \
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp; \
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp; 
 
-## 🏆 &nbsp;GitHub Trophies
+
+<h2> <img width="25" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-stats.png" /><i>🏆 GitHub Trophies:</i></h2>
+
 ![](https://github-profile-trophy.vercel.app/?username=alberteinsteintg&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 > "If you want to know what God thinks about money, look at who he gave it to."
