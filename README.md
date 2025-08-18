@@ -3,4 +3,4 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Lorraineboza&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-![grok](https://demo.chat-sdk.dev/chat/329492cb-353a-40a0-ab95-217109e5ca01)
+![readme-ascii](https://user-images.githubusercontent.com/17814535/88974985-14ced400-d27f-11ea-83a8-065d86dd8d26.png)
