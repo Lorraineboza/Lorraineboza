@@ -1,5 +1,11 @@
 <div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lobster&size=30&pause=1000&color=F7F7F7&background=000212&center=true&vCenter=true&random=true&width=435&lines=Hello%2C+I'm+Loraineboza+Wilelkwile)](https://git.io/typing-svg)
+
+
+
+<div align="center">
+
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0)](https://t.me/von_daniels)
 [![Email](https://img.shields.io/badge/-www.facemash@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:www.facemash@gmail.com)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116)](https://leetcode.com/u/paulvondaniels/)
