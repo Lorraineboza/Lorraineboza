@@ -121,10 +121,5 @@
 
 ### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
 
-</div>
-
-#
-
-![footer](WEBP/footer.webp)
-
+<a href="https://zachnguyen.com/t" target="_blank"><img alt="A terminal window showing a rotating teapot animation drawn using ASCII characters." align="right" src="img/t.gif" /></a>
 
