@@ -1,11 +1,5 @@
 
 
-![SO profile](https://raw.githubusercontent.com/johannchopin/stackoverflow-readme-profile/main/docs/profile/themes/dark.svg)
-
-[![readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark)](https://github.com/piyushsuthar/github-readme-quotes)
-
-
-
 <p align="center">
   <img alt = "profile views" src="https://komarev.com/ghpvc/?username=PaulVonDaniels&style=flat&color=blue"/> •   
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/JayantGoel001?label=Followers&style=social"/> •
