@@ -7,3 +7,13 @@
 
 
 ![SO profile](https://raw.githubusercontent.com/johannchopin/stackoverflow-readme-profile/main/docs/profile/themes/dark.svg)
+
+[![readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+
+
+<p align="center">
+  <img height="150" width="150" src="WEBP/left.webp"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PaulVonDaniels&theme=dark&hide_border=true"/>
+  <img height="150" width="150" src="WEBP/right.webp"/>
+</p>
