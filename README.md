@@ -22,3 +22,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 </div>
+
+> "If you want to know what God thinks about money, look at who he gave it to."
+
+
+![Snake animation](https://github.com/s-shemmee/s-shemmee/blob/output/github-contribution-grid-snake-dark.svg)
