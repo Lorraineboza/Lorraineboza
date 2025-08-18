@@ -59,7 +59,8 @@
 
 
 
-
+</h4>  
+  
 ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](github-contribution-grid-snake.svg)
 
 <br/>
@@ -74,3 +75,22 @@
 <img align="right" height="330px" width="450px" src="https://wakatime.com/share/@JayantGoel001/d757c83d-c3a9-424e-86f1-ce88190c9840.svg" />
 
 <br>
+<br>
+
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C323%20hrs%204%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-51.4%20million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 14.2 MB Used in GitHub's Storage 
+ > 
+> 🏆 1,547 Contributions in the Year 2025
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 207 Public Repositories 
+ > 
+> 🔑 2 Private Repositories 
+ > 
